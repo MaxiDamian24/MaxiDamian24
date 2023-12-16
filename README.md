@@ -1,4 +1,4 @@
-<h1 align="center">Hola, me llamo Maximiliano</h1>
+<h1 align="center">Maximiliano Argañaraz</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Información</h3>
 
 
