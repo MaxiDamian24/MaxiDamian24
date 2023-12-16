@@ -3,6 +3,7 @@
 # Sobre mi 💻
 
 Actualmente me encuentro trabajando como Freelancer en PCMaXX y estudiando la carrera de Ingeniería en Sistemas de Información en UTN - FRBA (Universidad Tecnológica Nacional, Facultad Regional Buenos Aires), cursando materias de 3er año. Me considero alguien responsable, con muchas ganas de aprender. 
+
 Me encuentro en constante aprendizaje de diferentes lenguajes de Programación (HTML/CSS/JAVA/C++/Python), Base de Datos (MyQSL) y con conocimiento en GitHub.
 
 
