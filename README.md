@@ -1,4 +1,4 @@
-<h1 align="center">Maximiliano Argañaraz</h1>
+# Maximiliano Argañaraz
 
 # Sobre mi 💻
 
